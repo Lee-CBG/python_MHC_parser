@@ -1,3 +1,6 @@
+# Part of MHC Parser
+# (c) 2022 Arizona State University 
+
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """

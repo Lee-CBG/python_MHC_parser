@@ -1,3 +1,6 @@
+# Part of MHC Parser
+# (c) 2022 Arizona State University  
+
 '''
 mergefiles
 take in a nuc file and gen file and merge 

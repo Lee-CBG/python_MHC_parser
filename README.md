@@ -1,3 +1,6 @@
+# Part of MHC Parser
+# (c) 2022 Arizona State University  
+
 # python_MHC_parser
 this is a parser to read in MHC files from ANHIG / IMGTHLA and parse it to certain format requirements. 
 
